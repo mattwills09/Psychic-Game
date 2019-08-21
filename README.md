@@ -1,7 +1,7 @@
 # User vs. Computer Psychic Letter Guess Game
 ___
 
-This quick, simple game is basically a letter guessing game that users can play against 'the eviiiiil computer' to see how many times they are able to guess the correct letter the computer is thinking of.  It was built with HTML and JavaScript, and can easily be ran by following the hosted link.  Or you could simply cloning the repo here and navigate to the 'index.html' page.
+This quick, simple JavaScript game is essentially a letter guessing game that users can play against 'the eviiiiil computer' to see how many times they are able to guess the correct letter the computer is thinking of.  It was built with HTML and JavaScript, and can easily be ran by following the hosted link.  Or you could simply cloning the repo here and navigate to the 'index.html' page.
 ___
 ![Psychic-Game](assets/images/intro-to-game.jpg)
 ___
